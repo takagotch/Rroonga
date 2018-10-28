@@ -1,8 +1,7 @@
 ### Rroonga
 ---
 
-https://github.com/toptal/chewy
-
+https://github.com/ranguba/rroonga
 ```
 ```
 
